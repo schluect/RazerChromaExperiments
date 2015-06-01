@@ -1,0 +1,14 @@
+C:\Users\Todd\Downloads\Razer_Chroma_SDK_Documentation_v0.1.5\sample\RazerChromaPeakMeter\ClassLibrary1\bin\Release\ClassLibrary1.dll.config
+C:\Users\Todd\Downloads\Razer_Chroma_SDK_Documentation_v0.1.5\sample\RazerChromaPeakMeter\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\Todd\Downloads\Razer_Chroma_SDK_Documentation_v0.1.5\sample\RazerChromaPeakMeter\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\Todd\Downloads\Razer_Chroma_SDK_Documentation_v0.1.5\sample\RazerChromaPeakMeter\ClassLibrary1\bin\Release\Corale.Colore.dll
+C:\Users\Todd\Downloads\Razer_Chroma_SDK_Documentation_v0.1.5\sample\RazerChromaPeakMeter\ClassLibrary1\bin\Release\EntityFramework.dll
+C:\Users\Todd\Downloads\Razer_Chroma_SDK_Documentation_v0.1.5\sample\RazerChromaPeakMeter\ClassLibrary1\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Todd\Downloads\Razer_Chroma_SDK_Documentation_v0.1.5\sample\RazerChromaPeakMeter\ClassLibrary1\bin\Release\Corale.Colore.xml
+C:\Users\Todd\Downloads\Razer_Chroma_SDK_Documentation_v0.1.5\sample\RazerChromaPeakMeter\ClassLibrary1\bin\Release\EntityFramework.xml
+C:\Users\Todd\Downloads\Razer_Chroma_SDK_Documentation_v0.1.5\sample\RazerChromaPeakMeter\ClassLibrary1\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Todd\Downloads\Razer_Chroma_SDK_Documentation_v0.1.5\sample\RazerChromaPeakMeter\ClassLibrary1\obj\Release\ClassLibrary1.InitialCreate.resources
+C:\Users\Todd\Downloads\Razer_Chroma_SDK_Documentation_v0.1.5\sample\RazerChromaPeakMeter\ClassLibrary1\obj\Release\ClassLibrary1.SecondMigration.resources
+C:\Users\Todd\Downloads\Razer_Chroma_SDK_Documentation_v0.1.5\sample\RazerChromaPeakMeter\ClassLibrary1\obj\Release\ClassLibrary1.csproj.GenerateResource.Cache
+C:\Users\Todd\Downloads\Razer_Chroma_SDK_Documentation_v0.1.5\sample\RazerChromaPeakMeter\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\Todd\Downloads\Razer_Chroma_SDK_Documentation_v0.1.5\sample\RazerChromaPeakMeter\ClassLibrary1\obj\Release\ClassLibrary1.pdb

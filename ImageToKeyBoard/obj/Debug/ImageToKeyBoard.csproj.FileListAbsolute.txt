@@ -1,0 +1,15 @@
+C:\Users\Todd\Downloads\Razer_Chroma_SDK_Documentation_v0.1.5\sample\RazerChromaPeakMeter\ImageToKeyBoard\bin\Debug\ImageToKeyBoard.exe.config
+C:\Users\Todd\Downloads\Razer_Chroma_SDK_Documentation_v0.1.5\sample\RazerChromaPeakMeter\ImageToKeyBoard\bin\Debug\ImageToKeyBoard.exe
+C:\Users\Todd\Downloads\Razer_Chroma_SDK_Documentation_v0.1.5\sample\RazerChromaPeakMeter\ImageToKeyBoard\bin\Debug\ImageToKeyBoard.pdb
+C:\Users\Todd\Downloads\Razer_Chroma_SDK_Documentation_v0.1.5\sample\RazerChromaPeakMeter\ImageToKeyBoard\bin\Debug\Corale.Colore.dll
+C:\Users\Todd\Downloads\Razer_Chroma_SDK_Documentation_v0.1.5\sample\RazerChromaPeakMeter\ImageToKeyBoard\bin\Debug\Corale.Colore.xml
+C:\Users\Todd\Downloads\Razer_Chroma_SDK_Documentation_v0.1.5\sample\RazerChromaPeakMeter\ImageToKeyBoard\obj\Debug\ImageToKeyBoard.csprojResolveAssemblyReference.cache
+C:\Users\Todd\Downloads\Razer_Chroma_SDK_Documentation_v0.1.5\sample\RazerChromaPeakMeter\ImageToKeyBoard\obj\Debug\ImageToKeyBoard.exe
+C:\Users\Todd\Downloads\Razer_Chroma_SDK_Documentation_v0.1.5\sample\RazerChromaPeakMeter\ImageToKeyBoard\obj\Debug\ImageToKeyBoard.pdb
+D:\GithubRepos\RazerChromaExperiments\ImageToKeyBoard\bin\Debug\ImageToKeyBoard.exe.config
+D:\GithubRepos\RazerChromaExperiments\ImageToKeyBoard\obj\Debug\ImageToKeyBoard.exe
+D:\GithubRepos\RazerChromaExperiments\ImageToKeyBoard\obj\Debug\ImageToKeyBoard.pdb
+D:\GithubRepos\RazerChromaExperiments\ImageToKeyBoard\bin\Debug\ImageToKeyBoard.exe
+D:\GithubRepos\RazerChromaExperiments\ImageToKeyBoard\bin\Debug\ImageToKeyBoard.pdb
+D:\GithubRepos\RazerChromaExperiments\ImageToKeyBoard\bin\Debug\Corale.Colore.dll
+D:\GithubRepos\RazerChromaExperiments\ImageToKeyBoard\bin\Debug\Corale.Colore.xml
